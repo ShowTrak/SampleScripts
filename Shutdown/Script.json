@@ -1,0 +1,10 @@
+{
+    "Name": "Shutdown Computer",
+    "Type": "BatchFile",
+    "Description": "Restart the computer",
+    "LabelStyle": "danger",
+    "Path": "./run.bat",
+    "Weight": 10,
+    "Confirmation": true,
+    "Enabled": true
+}

@@ -1,0 +1,10 @@
+{
+    "Name": "Close Program",
+    "Type": "BatchFile",
+    "Description": "Close a specified program with TaskKill",
+    "LabelStyle": "light",
+    "Path": "./run.bat",
+    "Weight": 10,
+    "Confirmation": true,
+    "Enabled": true
+}

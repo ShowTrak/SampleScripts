@@ -1,0 +1,10 @@
+{
+    "Name": "Log Off",
+    "Type": "BatchFile",
+    "Description": "Sign out of the current user",
+    "LabelStyle": "danger",
+    "Path": "./run.bat",
+    "Weight": 10,
+    "Confirmation": true,
+    "Enabled": true
+}
