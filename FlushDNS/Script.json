@@ -1,0 +1,10 @@
+{
+  "Name": "Flush DNS Cache",
+  "Type": "BatchFile",
+  "Description": "Flush the local DNS resolver cache",
+  "LabelStyle": "primary",
+  "Path": "./run.bat",
+  "Weight": 201,
+  "Confirmation": false,
+  "Enabled": true
+}

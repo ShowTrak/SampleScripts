@@ -1,0 +1,10 @@
+{
+  "Name": "Restart Windows Explorer",
+  "Type": "BatchFile",
+  "Description": "Restart explorer.exe to refresh the desktop and taskbar",
+  "LabelStyle": "warning",
+  "Path": "./run.bat",
+  "Weight": 301,
+  "Confirmation": true,
+  "Enabled": true
+}

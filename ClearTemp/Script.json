@@ -1,0 +1,10 @@
+{
+  "Name": "Clear Temp Files",
+  "Type": "BatchFile",
+  "Description": "Delete files in the current user's TEMP folder",
+  "LabelStyle": "warning",
+  "Path": "./run.bat",
+  "Weight": 303,
+  "Confirmation": true,
+  "Enabled": true
+}

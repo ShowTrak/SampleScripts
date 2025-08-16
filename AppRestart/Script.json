@@ -1,0 +1,10 @@
+{
+  "Name": "Restart Application",
+  "Type": "BatchFile",
+  "Description": "Restart an application by process name and path",
+  "LabelStyle": "warning",
+  "Path": "./run.bat",
+  "Weight": 503,
+  "Confirmation": true,
+  "Enabled": true
+}

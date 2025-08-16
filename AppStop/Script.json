@@ -1,0 +1,10 @@
+{
+  "Name": "Stop Application",
+  "Type": "BatchFile",
+  "Description": "Stop an application by process name",
+  "LabelStyle": "danger",
+  "Path": "./run.bat",
+  "Weight": 502,
+  "Confirmation": true,
+  "Enabled": true
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Restart Service",
+  "Type": "BatchFile",
+  "Description": "Restart a Windows service by name",
+  "LabelStyle": "warning",
+  "Path": "./run.bat",
+  "Weight": 403,
+  "Confirmation": true,
+  "Enabled": true
+}

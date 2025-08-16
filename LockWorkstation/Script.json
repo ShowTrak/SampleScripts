@@ -1,0 +1,10 @@
+{
+  "Name": "Lock Workstation",
+  "Type": "BatchFile",
+  "Description": "Lock the current session",
+  "LabelStyle": "primary",
+  "Path": "./run.bat",
+  "Weight": 101,
+  "Confirmation": true,
+  "Enabled": true
+}

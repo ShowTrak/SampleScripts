@@ -1,0 +1,10 @@
+{
+  "Name": "Stop Service",
+  "Type": "BatchFile",
+  "Description": "Stop a Windows service by name",
+  "LabelStyle": "danger",
+  "Path": "./run.bat",
+  "Weight": 401,
+  "Confirmation": true,
+  "Enabled": true
+}

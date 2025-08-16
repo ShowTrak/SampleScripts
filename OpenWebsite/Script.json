@@ -1,0 +1,10 @@
+{
+  "Name": "Open Website",
+  "Type": "BatchFile",
+  "Description": "Open a website in the default browser",
+  "LabelStyle": "info",
+  "Path": "./run.bat",
+  "Weight": 302,
+  "Confirmation": false,
+  "Enabled": true
+}

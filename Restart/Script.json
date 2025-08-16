@@ -4,7 +4,7 @@
     "Description": "Restart the computer",
     "LabelStyle": "danger",
     "Path": "./run.bat",
-    "Weight": 10,
+    "Weight": 103,
     "Confirmation": true,
     "Enabled": true
 }

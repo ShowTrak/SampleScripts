@@ -1,0 +1,10 @@
+{
+  "Name": "Start Application",
+  "Type": "BatchFile",
+  "Description": "Start an application by full path",
+  "LabelStyle": "success",
+  "Path": "./run.bat",
+  "Weight": 501,
+  "Confirmation": false,
+  "Enabled": true
+}

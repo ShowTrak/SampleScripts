@@ -1,0 +1,10 @@
+{
+  "Name": "Resync System Time",
+  "Type": "BatchFile",
+  "Description": "Force time sync with configured NTP server(s)",
+  "LabelStyle": "info",
+  "Path": "./run.bat",
+  "Weight": 202,
+  "Confirmation": false,
+  "Enabled": true
+}

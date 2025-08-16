@@ -1,0 +1,10 @@
+{
+  "Name": "Ensure Application Running",
+  "Type": "BatchFile",
+  "Description": "Ensure an application is running; start it if not",
+  "LabelStyle": "primary",
+  "Path": "./run.bat",
+  "Weight": 504,
+  "Confirmation": false,
+  "Enabled": true
+}
