@@ -1,10 +1,13 @@
 {
   "Name": "Start Application",
-  "Type": "BatchFile",
   "Description": "Start an application by full path",
-  "LabelStyle": "success",
-  "Path": "./run.bat",
-  "Weight": 501,
+  "Colour": 3,
+  "Weight": 90,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

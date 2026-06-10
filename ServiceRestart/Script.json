@@ -1,10 +1,13 @@
 {
   "Name": "Restart Service",
-  "Type": "BatchFile",
   "Description": "Restart a Windows service by name",
-  "LabelStyle": "warning",
-  "Path": "./run.bat",
-  "Weight": 403,
+  "Weight": 70,
   "Confirmation": true,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  },
+  "Colour": 2
 }

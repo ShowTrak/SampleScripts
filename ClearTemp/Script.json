@@ -1,10 +1,13 @@
 {
   "Name": "Clear Temp Files",
-  "Type": "BatchFile",
   "Description": "Delete files in the current user's TEMP folder",
-  "LabelStyle": "warning",
-  "Path": "./run.bat",
-  "Weight": 303,
+  "Colour": 6,
+  "Weight": 200,
   "Confirmation": true,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

@@ -1,10 +1,13 @@
 {
   "Name": "Open Website",
-  "Type": "BatchFile",
   "Description": "Open a website in the default browser",
-  "LabelStyle": "info",
-  "Path": "./run.bat",
-  "Weight": 302,
+  "Colour": 6,
+  "Weight": 190,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

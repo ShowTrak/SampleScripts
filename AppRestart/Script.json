@@ -1,10 +1,13 @@
 {
   "Name": "Restart Application",
-  "Type": "BatchFile",
   "Description": "Restart an application by process name and path",
-  "LabelStyle": "warning",
-  "Path": "./run.bat",
-  "Weight": 503,
+  "Colour": 3,
+  "Weight": 110,
   "Confirmation": true,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

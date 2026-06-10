@@ -1,10 +1,13 @@
 {
   "Name": "Ensure Service Running",
-  "Type": "BatchFile",
   "Description": "Ensure a Windows service is running; start it if not",
-  "LabelStyle": "primary",
-  "Path": "./run.bat",
-  "Weight": 404,
+  "Colour": 2,
+  "Weight": 80,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

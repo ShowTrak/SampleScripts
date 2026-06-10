@@ -1,8 +1,8 @@
 {
-  "Name": "Stop Application",
-  "Description": "Stop an application by process name",
-  "Colour": 3,
-  "Weight": 100,
+  "Name": "Lock Client",
+  "Description": "Lock the current client session",
+  "Colour": 1,
+  "Weight": 40,
   "Confirmation": true,
   "Enabled": true,
   "Platforms": {

@@ -1,10 +1,13 @@
 {
   "Name": "Collect System Info",
-  "Type": "BatchFile",
   "Description": "Save systeminfo output to a file in %TEMP%",
-  "LabelStyle": "light",
-  "Path": "./run.bat",
-  "Weight": 204,
+  "Weight": 180,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  },
+  "Colour": 6
 }

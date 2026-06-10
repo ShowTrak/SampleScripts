@@ -1,10 +1,13 @@
 {
   "Name": "Check Internet Connectivity",
-  "Type": "BatchFile",
   "Description": "Ping a public DNS server to verify connectivity",
-  "LabelStyle": "info",
-  "Path": "./run.bat",
-  "Weight": 203,
+  "Colour": 6,
+  "Weight": 170,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

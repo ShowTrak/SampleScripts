@@ -1,10 +1,13 @@
 {
   "Name": "Stop Service",
-  "Type": "BatchFile",
   "Description": "Stop a Windows service by name",
-  "LabelStyle": "danger",
-  "Path": "./run.bat",
-  "Weight": 401,
+  "Colour": 2,
+  "Weight": 60,
   "Confirmation": true,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

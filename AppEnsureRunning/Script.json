@@ -1,10 +1,13 @@
 {
   "Name": "Ensure Application Running",
-  "Type": "BatchFile",
   "Description": "Ensure an application is running; start it if not",
-  "LabelStyle": "primary",
-  "Path": "./run.bat",
-  "Weight": 504,
+  "Colour": 3,
+  "Weight": 120,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }

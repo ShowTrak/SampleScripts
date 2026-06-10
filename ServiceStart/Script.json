@@ -1,10 +1,13 @@
 {
   "Name": "Start Service",
-  "Type": "BatchFile",
   "Description": "Start a Windows service by name",
-  "LabelStyle": "success",
-  "Path": "./run.bat",
-  "Weight": 402,
+  "Colour": 2,
+  "Weight": 50,
   "Confirmation": false,
-  "Enabled": true
+  "Enabled": true,
+  "Platforms": {
+    "Windows": "run.bat",
+    "macOS": "",
+    "Linux": ""
+  }
 }
