@@ -1,7 +1,7 @@
 {
   "Name": "Lock Client",
   "Description": "Lock the current client session",
-  "Colour": 1,
+  "Colour": 0,
   "Weight": 40,
   "Confirmation": true,
   "Enabled": true,
@@ -9,5 +9,10 @@
     "Windows": "windows.bat",
     "macOS": "macos.sh",
     "Linux": "linux.sh"
+  },
+  "Arguments": {
+    "Windows": "",
+    "macOS": "",
+    "Linux": ""
   }
 }

@@ -9,5 +9,10 @@
     "macOS": "macos.sh",
     "Linux": "linux.sh"
   },
-  "Colour": 2
+  "Colour": 2,
+  "Arguments": {
+    "Windows": "",
+    "macOS": "",
+    "Linux": ""
+  }
 }
