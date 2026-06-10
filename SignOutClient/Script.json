@@ -6,8 +6,8 @@
   "Confirmation": true,
   "Enabled": true,
   "Platforms": {
-    "Windows": "run.bat",
-    "macOS": "",
-    "Linux": ""
+    "Windows": "windows.bat",
+    "macOS": "macos.sh",
+    "Linux": "linux.sh"
   }
 }
