@@ -14,5 +14,6 @@
     "Windows": "",
     "macOS": "",
     "Linux": ""
-  }
+  },
+  "Timeout": 15000
 }

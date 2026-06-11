@@ -4,6 +4,7 @@
   "Colour": 3,
   "Weight": 90,
   "Confirmation": false,
+  "Timeout": 15000,
   "Enabled": true,
   "Platforms": {
     "Windows": "windows.bat",

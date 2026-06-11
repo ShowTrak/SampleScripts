@@ -1,9 +1,10 @@
 {
-  "Name": "Shutdown Client Test 2",
+  "Name": "Shutdown Client",
   "Description": "Shut down the client.",
   "Colour": 0,
   "Weight": 10,
   "Confirmation": true,
+  "Timeout": 15000,
   "Enabled": true,
   "Platforms": {
     "Windows": "windows.bat",
