@@ -2,7 +2,7 @@
   "Name": "Ensure Application Running",
   "Description": "Ensure an application is running; start it if not",
   "Colour": 3,
-  "Weight": 130,
+  "Weight": 120,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {

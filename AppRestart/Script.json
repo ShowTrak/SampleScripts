@@ -2,7 +2,7 @@
   "Name": "Restart Application",
   "Description": "Restart an application by process name and path",
   "Colour": 3,
-  "Weight": 120,
+  "Weight": 110,
   "Confirmation": true,
   "Enabled": true,
   "Platforms": {
