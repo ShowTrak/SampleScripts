@@ -2,7 +2,7 @@
   "Name": "Check Internet Connectivity",
   "Description": "Ping a public DNS server to verify connectivity",
   "Colour": 6,
-  "Weight": 170,
+  "Weight": 150,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {

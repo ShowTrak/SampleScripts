@@ -2,7 +2,7 @@
   "Name": "Open Website",
   "Description": "Open a website in the default browser",
   "Colour": 6,
-  "Weight": 190,
+  "Weight": 170,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {

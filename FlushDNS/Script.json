@@ -2,7 +2,7 @@
   "Name": "Flush DNS Cache",
   "Description": "Flush the local DNS resolver cache",
   "Colour": 6,
-  "Weight": 150,
+  "Weight": 100,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {

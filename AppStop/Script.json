@@ -2,7 +2,7 @@
   "Name": "Stop Application",
   "Description": "Stop an application by process name",
   "Colour": 3,
-  "Weight": 100,
+  "Weight": 110,
   "Confirmation": true,
   "Enabled": true,
   "Platforms": {

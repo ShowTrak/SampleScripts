@@ -2,7 +2,7 @@
   "Name": "Resync System Time",
   "Description": "Force time sync with configured NTP server(s)",
   "Colour": 6,
-  "Weight": 160,
+  "Weight": 140,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {

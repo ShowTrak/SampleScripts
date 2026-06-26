@@ -1,7 +1,7 @@
 {
   "Name": "Collect System Info",
   "Description": "Save systeminfo output to a file in %TEMP%",
-  "Weight": 180,
+  "Weight": 160,
   "Confirmation": false,
   "Enabled": true,
   "Platforms": {
