@@ -15,5 +15,6 @@
     "macOS": "",
     "Linux": ""
   },
-  "Timeout": 15000
+  "Timeout": 15000,
+  "Icon": "arrow-clockwise"
 }
