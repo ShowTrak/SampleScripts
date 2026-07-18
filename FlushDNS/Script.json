@@ -16,5 +16,10 @@
     "Linux": ""
   },
   "Timeout": 15000,
-  "Icon": "hdd-network"
+  "Icon": "hdd-network",
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
+  }
 }

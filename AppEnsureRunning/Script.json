@@ -16,5 +16,10 @@
     "Linux": ""
   },
   "Timeout": 15000,
-  "Icon": "app-indicator"
+  "Icon": "app-indicator",
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
+  }
 }

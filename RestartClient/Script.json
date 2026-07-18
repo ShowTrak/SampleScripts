@@ -16,5 +16,10 @@
     "Linux": ""
   },
   "Timeout": 15000,
-  "Icon": "arrow-repeat"
+  "Icon": "arrow-repeat",
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
+  }
 }

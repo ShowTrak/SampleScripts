@@ -16,5 +16,10 @@
     "Windows": "",
     "macOS": "",
     "Linux": ""
+  },
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
   }
 }

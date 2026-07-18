@@ -16,5 +16,10 @@
     "macOS": "",
     "Linux": ""
   },
-  "Icon": "lock"
+  "Icon": "lock",
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
+  }
 }

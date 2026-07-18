@@ -16,5 +16,10 @@
     "macOS": "",
     "Linux": ""
   },
-  "Icon": "power"
+  "Icon": "power",
+  "ConsoleFilter": {
+    "Mode": "none",
+    "Pattern": "",
+    "Strip": false
+  }
 }
